@@ -1,0 +1,14 @@
+gradio>=4.0.0
+transformers>=4.40.0
+torch>=2.0.0
+pdfplumber
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+accelerate
+bitsandbytes
+huggingface_hub
+pytesseract
+Pillow
